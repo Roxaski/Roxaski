@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/Roxaski/Roxaski/assets/145111435/9ea57e12-f29a-44e8-906b-d2a3b2a43407)
 
-## About Me
+<h1>About Me</h1>
 
 Hey guys, just wanted to start of by introducing myself. 
 <br>
