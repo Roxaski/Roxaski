@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Roxaski/Roxaski/assets/145111435/e987b0eb-0d61-444b-a8af-5f78561c2975)
+![Github Banner](https://github.com/Roxaski/Roxaski/assets/145111435/1d08c7d1-7369-4a7a-8a81-49f1c62307a0)
 
 <h1>About Me</h1>
 
