@@ -1,4 +1,5 @@
-![Github Banner](https://github.com/Roxaski/Roxaski/assets/145111435/b4940ce7-1408-4d1b-a6ec-3514789d1e05)
+![New Github Banner](https://github.com/Roxaski/Roxaski/assets/145111435/aa5320b8-144b-4449-9ad7-8ae31c83b2f0)
+
 
 # About Me
 
