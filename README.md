@@ -13,7 +13,7 @@ be in positive or negative. Always striving to improve and grow, and i also love
 
 # Proficient
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 # Currently Learning
 
