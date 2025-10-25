@@ -5,7 +5,7 @@
 
 Hey guys, just wanted to start of by introducing myself. 
 <br>
-Name's Hugo :v:😄:v: i'm an incredibly passionate self taught Web Dev!
+Name's Hugo :v:😄:v: i'm an incredibly passionate self taught Web Developer!
   
 I'd say that i am a pretty creative person, which is part of the reason that i was so enamoured by web developement. 
 Being able to create amazing websites is something i love to do. I'm always happy to hear any feedback that you might have about any of the website i've created,
