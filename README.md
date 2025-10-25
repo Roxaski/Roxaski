@@ -3,13 +3,17 @@
 
 # About Me
 
-Hey guys, just wanted to start of by introducing myself. 
-<br>
-Name's Hugo :v:😄:v: i'm an incredibly passionate self taught Web Developer!
-  
-I'd say that i am a pretty creative person, which is part of the reason that i was so enamoured by web developement. 
-Being able to create amazing websites is something i love to do. I'm always happy to hear any feedback that you might have about any of the website i've created,
-be in positive or negative. Always striving to improve and grow, and i also love to learn new skill sets.
+Hey there! 👋
+
+I'm Hugo, a passionate self-taught web developer who loves bringing creative ideas to life through code and design.
+
+I specialize in front-end development, building cool and visually awesome websites using JavaScript, HTML, and CSS. What drew me to web development was the blend of creativity and problem-solving, there's truly nothing quite like turning a cool idea or concept into a fully functional project.
+
+I'm always eager to learn new technologies and improve what i love doing, which is to create incredible projects. Whether that be experimenting with new frameworks, refining my design skills, or tackling challenging projects, I'm constantly pushing myself to grow as a developer.
+
+I welcome all feedback on my projects - positive or constructive. I feel that's how you learn, grow, and improve not only through web development, but through life. If you'd like to check out my work then feel free to check out my repositories, don't hesitate to reach out if you want to connect or collaborate.
+
+Happy Programming! 💻
 
 # Proficient
 
