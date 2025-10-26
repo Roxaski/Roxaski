@@ -7,7 +7,7 @@ Hey there! 👋🏼
 
 I'm Hugo, a passionate self-taught web developer who loves bringing creative ideas to life through code and design.
 
-I specialize in front end web development, building cool and visually awesome websites using JavaScript, HTML, and CSS. What drew me to web development was the blend of creativity and problem solving, there's truly nothing quite like turning a cool idea or concept into a fully functional project.
+I specialize in front end web development, building visually awesome websites using HTML, CSS, and JavaScript. What drew me to web development was the blend of creativity and problem solving, there's truly nothing quite like turning a cool idea or concept into a fully functional project.
 
 I'm always eager to learn new technologies and improve on what i love doing, which is to create bring incredible ideas to life. Whether it's experimenting with new frameworks, refining my design skills, or tackling challenging projects, I'm constantly pushing myself to grow not only as a developer but also as a person.
 
