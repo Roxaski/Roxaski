@@ -3,7 +3,7 @@
 
 # About Me
 
-Hey there! 👋
+Hey there! 👋🏼
 
 I'm Hugo, a passionate self-taught web developer who loves bringing creative ideas to life through code and design.
 
