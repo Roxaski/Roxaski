@@ -3,7 +3,7 @@
 
 # About Me
 
-Hey there! 👋🏼
+👋🏼 Hey there!
 
 I'm Hugo, a passionate self-taught web developer who loves bringing creative ideas to life through code and design.
 
@@ -13,7 +13,7 @@ I'm always eager to learn new technologies and improve on what i love doing, whi
 
 I welcome all feedback on my projects wether it positive or constructive. I feel that's how you learn, grow, and improve not only through web development, but through life. If you'd like to check out my work, then don't hesitate to do so, also feel free to reach out if you would like to connect or collaborate.
 
-Happy Programming! 💻
+Happy Programming!
 
 # Proficient
 
