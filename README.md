@@ -1,5 +1,4 @@
-![New Github Banner](https://github.com/Roxaski/Roxaski/assets/145111435/aa5320b8-144b-4449-9ad7-8ae31c83b2f0)
-
+<img width="1200" height="480" alt="Profile Banner" src="https://github.com/user-attachments/assets/c4915e5d-a65d-4a08-8105-1c3ff07fbffe" />
 
 # About Me
 
