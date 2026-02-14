@@ -2,8 +2,6 @@
 
 # About Me
 
-Hey there.
-
 I'm a passionate self-taught web developer who loves bringing creative ideas to life through code and design.
 
 I specialize in front end web development, building visually awesome websites using HTML, CSS, and JavaScript. What drew me to web development was the blend of creativity and problem solving, there's truly nothing quite like turning a cool idea or concept into a fully functional project.
