@@ -3,11 +3,11 @@
 # About Me
 I'm a passionate self-taught web developer who loves bringing creative ideas to life through code and design.
 
-I specialize in front-end web development, building visually awesome websites using HTML, CSS, and JavaScript. What drew me to web development was the blend of creativity and problem solving. There's truly nothing quite like turning a cool idea or concept into a fully functional project.
+I specialize in front end web development, building awesome websites using HTML, CSS, and JavaScript. What drew me to web development was the blend of creativity and problem solving. There's truly nothing quite like turning a cool idea or concept into a fully functional project.
 
-I'm always eager to learn new technologies and improve on what i love doing, which is to create and bring incredible ideas to life. Whether it's experimenting with new frameworks, refining my design skills, or tackling challenging projects, I'm constantly pushing myself to grow not only as a developer but also as a person.
+I love learning new technologies and improving on what i know and what i love doing, which is to create and bring incredible ideas to life. Be it experimenting with frame works, refining my programming and design skills, or tackling challenging projects. I'm constantly pushing myself to not only grow as a developer but also as a person.
 
-I welcome all feedback on my projects, whether it's positive or constructive. I feel that's how you learn, grow, and improve, not only through web development, but through life. If you'd like to check out my work, then don't hesitate to do so. Also, feel free to reach out if you would like to connect or collaborate.
+All feedback is welcome, whether it be positive or constructive. I feel that's how you learn, grow, and improve, not only through web development, but through life. If you'd like to check out my work, then don't hesitate to do so. Also, feel free to reach out if you would like to connect or collaborate.
 
 # Proficient
 
