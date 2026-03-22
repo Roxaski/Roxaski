@@ -7,7 +7,7 @@ I specialize in front end web development, building awesome websites using HTML,
 
 I love learning new technologies, improving on what i know and what i love doing, which is to create and bring incredible ideas to life. Wether it be experimenting with frame works, refining my programming and design skills, or tackling challenging projects. I'm constantly pushing myself to not only grow as a developer but also as a person.
 
-All feedback is welcome, whether it be positive or constructive. I feel that's how you lear, grow and improve, not only through web development, but also through life. Make sure to check out my work and reach out if you'd like to connect or collaborate.
+All feedback is welcome, whether it be positive or constructive. I feel that's how you learn and grow, not only through web development, but also through life. Make sure to check out my work and reach out if you'd like to connect or collaborate.
 
 # Proficient
 
