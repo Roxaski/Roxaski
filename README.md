@@ -13,6 +13,10 @@ All feedback is welcome, whether it be positive or constructive. I feel that's h
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
+# Comfortable
+[![My Skills](https://skillicons.dev/icons?i=git,mysql)](https://skillicons.dev)
+
+
 # Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=js,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,expressjs)](https://skillicons.dev)
