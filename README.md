@@ -16,7 +16,6 @@ All feedback is welcome, whether it be positive or constructive. I feel that's h
 # Comfortable
 [![My Skills](https://skillicons.dev/icons?i=git,mysql)](https://skillicons.dev)
 
-
 # Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=js,expressjs)](https://skillicons.dev)
